@@ -1,6 +1,6 @@
 # The >eR-Biostat initiative
 ## Making R based education materials accessible for all
-## Contricutros:
+## Contributors:
 
 * Khangelani Zuma, Executive Director & Head of Biostatistics,Research Methodology & Data Centre (RMDC)
 Human Sciences Research Council, Pretoria, South Africa (kzuma@hsrc.ac.za)
